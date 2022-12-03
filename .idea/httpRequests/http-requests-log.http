@@ -1,0 +1,201 @@
+POST http://localhost:8080/api/editor
+Content-Type: application/json
+
+{
+  "text": "test",
+  "kind": "h1"
+}
+
+###
+
+POST http://localhost:80/api/editor
+Content-Type: application/json
+
+{
+  "text": "test",
+  "kind": "h1"
+}
+
+###
+
+POST http://localhost:80/api/item
+Content-Type: application/json
+
+{
+  "text": "test",
+  "kind": "h1"
+}
+
+###
+
+POST http://localhost:8080/api/editor
+Content-Type: application/json
+
+{
+  "title": "Your mom2",
+  "content": "statement",
+  "id": 55
+}
+
+###
+
+POST http://127.0.0.1:8080/api/editor
+
+<> 2022-10-10T182132.400.json
+
+###
+
+GET http://127.0.0.1:8080/api/main
+
+<> 2022-10-10T182126.200.json
+
+###
+
+GET http://127.0.0.1:8080/api/fullArticles
+
+<> 2022-10-10T182118.200.json
+
+###
+
+POST http://localhost:8080/api/editor
+Content-Type: application/json
+
+{
+  "title": "Пишем гибридное приложение для хранения заметок на Django, Django Ninja REST Framework и Alpine.js",
+  "preview_text": "Изучаем основные возможности Django Ninja, Alpine.js и Axios в процессе создания веб-приложения для хранения заметок.",
+  "content": "папапапапап опа давай давай и раз оп давай давай и хаха хах хаха",
+  "author_id": 1
+}
+
+###
+
+POST http://localhost:8080/api/editor
+Content-Type: application/json
+
+{
+  "title": "Пишем гибридное приложение для хранения заметок на Django, Django Ninja REST Framework и Alpine.js",
+  "preview_text": "Изучаем основные возможности Django Ninja, Alpine.js и Axios в процессе создания веб-приложения для хранения заметок.",
+  "content": "папапапапап опа давай давай и раз оп давай давай и хаха хах хаха",
+  "author_id": 1
+}
+
+<> 2022-09-19T230603.500.json
+
+###
+
+POST http://localhost:8080/api/editor
+Content-Type: application/json
+
+{
+  "title": "Пишем гибридное приложение для хранения заметок на Django, Django Ninja REST Framework и Alpine.js",
+  "preview_text": "Изучаем основные возможности Django Ninja, Alpine.js и Axios в процессе создания веб-приложения для хранения заметок.",
+  "content": "папапапапап опа давай давай и раз оп давай давай и хаха хах хаха",
+  "author_id": 1
+}
+
+<> 2022-09-19T230219.403.json
+
+###
+
+POST http://localhost:8080/api/editor
+Content-Type: application/json
+
+{
+  "title": "Пишем гибридное приложение для хранения заметок на Django, Django Ninja REST Framework и Alpine.js",
+  "preview_text": "Изучаем основные возможности Django Ninja, Alpine.js и Axios в процессе создания веб-приложения для хранения заметок.",
+  "content": "папапапапап опа давай давай и раз оп давай давай и хаха хах хаха",
+  "author_id": 1
+}
+
+<> 2022-09-19T230055.403.json
+
+###
+
+POST http://localhost:8080/api/editor
+{:
+  "title": "Пишем гибридное приложение для хранения заметок на Django, Django Ninja REST Framework и Alpine.js",
+  "preview_text": "Изучаем основные возможности Django Ninja, Alpine.js и Axios в процессе создания веб-приложения для хранения заметок.",
+  "content": "папапапапап опа давай давай и раз оп давай давай и хаха хах хаха",
+  "author_id": 1
+}:
+
+<> 2022-09-19T230019.400.html
+
+###
+
+GET http://localhost:8080/api/main
+
+POST http://localhost:8080/api/editor
+
+<> 2022-09-19T225454.200.json
+
+###
+
+GET http://localhost:8080/api/main
+Accept: application/json
+
+POST http://localhost:8080/api/editor
+
+<> 2022-09-19T225129.200.json
+
+###
+
+GET http://localhost:8080/api/main
+Accept: application/json
+
+POST http://localhost:8080/api/editor
+
+###
+
+GET http://localhost:8080/api/main
+Accept: application/json
+
+POST
+
+###
+
+GET http://localhost:8080/api/main
+Accept: application/json
+
+POST
+
+###
+
+GET http://localhost:8080/api/MAIN
+Accept: application/json
+
+POST
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+
+POST
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+
+POST
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+POST
+
+###
+
+HEAD http://127.0.0.1:8080/%20||%20
+Accept: application/hal+json
+
+###
+
+HEAD http://127.0.0.1:8080/%20||%20
+Accept: application/hal+json
+
+###
+
